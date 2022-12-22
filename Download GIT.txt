@@ -1,2 +1,4 @@
+O repositório em questão foi voltado à atividade para conclusão do curso de "Introdução ao Git/GitHub", da DIO.
+
 Link para download do Git:
-https://git-scm.com/downloads
+[Clique aqui](https://git-scm.com/downloads)
